@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1446833387046
+started,bundle,org.eclipse.wst.sse.core,1.1.401.v200909172215,"org.eclipse.wst.sse.core",1446833387046
+started,bundle,org.eclipse.wst.validation,1.2.102.v200905201610,"org.eclipse.wst.validation",1446833387046
+started,bundle,org.eclipse.wst.web,1.1.301.v200909021400,"org.eclipse.wst.web",1446833387046
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1446833387046
+started,bundle,org.eclipse.wst.xml.core,1.1.401.v200908242115,"org.eclipse.wst.xml.core",1446833387046
+os,sysinfo,,,"win32",1446833387062
+arch,sysinfo,,,"x86",1446833387062
+ws,sysinfo,,,"win32",1446833387062
+locale,sysinfo,,,"en_US",1446833387062
+processors,sysinfo,,,"1",1446833387062
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1446833387062
+java.runtime.version,sysinfo,,,"1.7.0_79-b15",1446833387062
+java.specification.name,sysinfo,,,"Java Platform API Specification",1446833387062
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1446833387062
+java.specification.version,sysinfo,,,"1.7",1446833387062
+java.vendor,sysinfo,,,"Oracle Corporation",1446833387062
+java.version,sysinfo,,,"1.7.0_79",1446833387062
+java.vm.info,sysinfo,,,"mixed mode, sharing",1446833387062
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1446833387062
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1446833387062
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1446833387062
+java.vm.specification.version,sysinfo,,,"1.7",1446833387062
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1446833387062
+java.vm.version,sysinfo,,,"24.79-b02",1446833387062

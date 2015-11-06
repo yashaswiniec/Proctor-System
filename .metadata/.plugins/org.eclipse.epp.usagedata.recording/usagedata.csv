@@ -1,0 +1,7 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1446833613109
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1446833715921
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1446833719484
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1446833721625
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1446833721843
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1446833723296
